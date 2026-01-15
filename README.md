@@ -6,10 +6,10 @@ About Me
 
 ## 👋 Hi, I'm Yogesh Yadav
 
-**Cloud Architect | SRE | AI Automation | Berlin, Germany**
+**Cloud Architect | SRE | AI Automation | Engineering Manager | Berlin, Germany**
 
-- 🔭 Leading GenAI adoption with LangChain agents & workflow automation [memory:5]
-- 💼 15+ years: AWS/Azure/GCP, Terraform, Kubernetes, Dynatrace/AppDynamics [memory:7]
+- 🔭 Leading GenAI adoption with LangChain agents & workflow automation 
+- 💼 15+ years: AWS/Azure/GCP, Terraform, Kubernetes, Dynatrace/AppDynamics 
 - 🌍 Berlin-based, Chancenkarte → Work Permit | German A1→A2
 - ⚡ Fun fact: Reduced infra costs 25% via SRE error budgets!
 
@@ -38,7 +38,7 @@ About Me
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshy13&layout=compact&theme=radical)
 
 ## 🔗 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yogeshy13)
-[![Email](https://img.shields.io/badge/Email-Contact-Me-4285F4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogesh@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/yogesh-y-a8a41b36/))
+[![Email](https://img.shields.io/badge/Email-Contact-Me-4285F4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogesh0387@gmail.com)
 
-**Open to Engineering Manager/SRE roles in Berlin/Frankfurt 🚀**
+**Open to Engineering Manager/SRE roles in Germany 🚀**
