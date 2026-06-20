@@ -6,12 +6,12 @@ About Me
 
 ## 👋 Hi, I'm Yogesh Yadav
 
-**Cloud Architect | SRE | AI Automation | Engineering Manager | Berlin, Germany**
+**Cloud Architect | SRE | AI | Automation | Engineering Manager | Germany**
 
 - 🔭 Leading GenAI adoption with LangChain agents & workflow automation 
 - 💼 15+ years: AWS/Azure/GCP, Terraform, Kubernetes, Dynatrace/AppDynamics 
-- 🌍 Berlin-based, Chancenkarte → Work Permit | German A1→A2
-- ⚡ Fun fact: Reduced infra costs 25% via SRE error budgets!
+- 🌍 Berlin-based, Chancenkarte → Work Permit | German B1
+- ⚡ Fun fact: Reduced infra costs 25% via SRE error budgets, used AI for code upgrade, 94% retention
 
 ## 🛠️ Core Skills
 
@@ -19,7 +19,7 @@ About Me
 |-------|------------|---------------|----|
 | AWS (EKS/EC2/RDS) | Terraform/K8s/Docker | LangChain/n8n/RPA | PRINCE2/Agile |
 | Azure/GCP | CI/CD/Jenkins | Blue Prism Agents | OKRs/SLOs |
-| IAM/VPC | Dynatrace Monitoring | GenAI PoCs | 20-25 Team Lead |
+| IAM/VPC | Dynatrace Monitoring | GenAI | 20-25 Team Lead |
 
 ## ✨ Featured Projects
 
